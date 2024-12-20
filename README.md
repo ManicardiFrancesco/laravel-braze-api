@@ -24,6 +24,10 @@ BRAZE_API_KEY='apiKey'
 BRAZE_REST_ENDPOINT=https://rest.fra-02.braze.eu
 ```
 
+### Laravel Version Compatibility
+
+This package supports Laravel 9, 10, and 11.
+
 ### Http Client Adapters
 
 This package has support for the [Laravel HTTP Client](https://laravel.com/docs/http-client) or [Guzzle](https://docs.guzzlephp.org/en/stable/). 
